@@ -19,7 +19,7 @@ Video Demo URL:https://youtu.be/qf6koW_z91A
 
 ------------
 
-<p align="center" style="font-size:50px;">Indicator performance</font></p>
+<p align="center" >Indicator performance</font></p>
 
 <div align="center">
 <img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/map_out/results/mAP.png">
