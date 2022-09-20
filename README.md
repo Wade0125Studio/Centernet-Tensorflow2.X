@@ -9,7 +9,7 @@ Object Detection model weights URL:
 <p align="center">YoloV3</font></p>
 
 <div align="center">
-<img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/img/street.png">
+<img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/img/street.jpg">
 </div>
 
 <div align="center">
