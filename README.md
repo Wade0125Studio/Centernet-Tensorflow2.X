@@ -5,9 +5,6 @@ Dataset URL:https://mega.nz/file/d5s2HYwJ#VfwoKiAUFs38zwgYpDY4w87hNl0Iqi8goQGGff
 Object Detection model weights URL:
 -------------
 
-
-<p align="center">YoloV3</font></p>
-
 <div align="center">
 <img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/img/street.jpg">
 </div>
@@ -16,23 +13,28 @@ Object Detection model weights URL:
 <img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/img_out/street.png">
 </div>
 
+------------
+Video Demo URL:https://youtu.be/qf6koW_z91A
 
-![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV3-Tensorflow2.X/img/maksssksksss627.png)![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV3-Tensorflow2.X/img_out/maksssksksss627.png)
 
 ------------
 
-<p align="center">YoloV4</font></p>
+<p align="center">Indicator performance</font></p>
 
 <div align="center">
-<img src="https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV4-Tensorflow2.X/map_out/results/mAP.png">
+<img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/map_out/results/mAP.png">
 </div>
 
 <div align="center">
-<img src="https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV4-Tensorflow2.X/map_out/results/lamr.png">
+<img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/map_out/results/lamr.png">
+</div>
+
+<div align="center">
+<img src="https://github.com/Wade0125Studio/Centernet-Tensorflow2.X/blob/main/map_out/results/ground-truth-info.png">
 </div>
 
 
-![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV4-Tensorflow2.X/img/maksssksksss627.png)![image](https://github.com/wade0125/Mask_Object_Detection_Yolo/blob/main/YoloV4-Tensorflow2.X/img_out/maksssksksss627.png)
+
 
 
 
