@@ -2,7 +2,7 @@
  
 Dataset URL:https://mega.nz/file/d5s2HYwJ#VfwoKiAUFs38zwgYpDY4w87hNl0Iqi8goQGGffXop0I
 -------------
-Object Detection model weights URL:
+Object Detection model weights URL:https://mega.nz/file/1u4zlbbZ#nxwCr9QhOXSmZE4AhnyQnlwUEqTWwtj97Za7LX77_Zw
 -------------
 
 <div align="center">
@@ -14,7 +14,7 @@ Object Detection model weights URL:
 </div>
 
 ------------
-#Video Demo URL:https://youtu.be/qf6koW_z91A
+# Video Demo URL:https://youtu.be/qf6koW_z91A
 
 ------------
 
